@@ -1,3 +1,7 @@
+/*
+Divide two integers without using multiplication, division and mod operator.
+*/
+
 #include <iostream>
 #include <climits>
 #include <cmath>
